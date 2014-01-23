@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cff172e9-1330-4908-8f07-34dffd3505e0" name="Default" comment="" />
+    <ignored path="NodeInAction.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="NodeInAction" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="chat.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/chat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="26" selection-start="166" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="express.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="44" selection-start="376" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1320">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/lib/request.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8025">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="response.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="156" column="0" selection-start="3473" selection-end="3473" vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="12075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/lib/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="4800">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="3" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.4909091" vertical-offset="285" max-vertical-offset="1245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat_ui.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/chat_ui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="0" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat_server.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/chat_server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="0" selection-start="4066" selection-end="4066" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="1995">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="6" selection-start="189" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/nodeinaction/helloServer.js" />
+        <option value="$PROJECT_DIR$/nodeinaction/helloServerV1.js" />
+        <option value="$PROJECT_DIR$/nodeinaction/streamingData.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/javascripts/chat-ui.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/chat.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/chat_ui.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/lib/chat_server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeInAction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeInAction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeInAction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="editor.preferences.AngularJS" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistory" value="chatApp" />
+    <property name="FullScreen" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="160" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="954" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="153" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="950" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akk\WebstormProjects\NodeInAction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akk\WebstormProjects\NodeInAction\public\javascripts" />
+      <recent name="C:\Users\akk\WebstormProjects\NodeInAction\nodeinaction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration default="false" name="helloServer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="helloServer.js" working-dir="$PROJECT_DIR$/nodeinaction">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="helloServerV1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="helloServerV1.js" working-dir="$PROJECT_DIR$/nodeinaction">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="streamingData.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="streamingData.js" working-dir="$PROJECT_DIR$/nodeinaction">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.helloServer.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.helloServerV1.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.streamingData.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.server.js" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.streamingData.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.helloServerV1.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.helloServer.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\akk\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cff172e9-1330-4908-8f07-34dffd3505e0" name="Default" comment="" />
+      <created>1390381617202</created>
+      <updated>1390381617202</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Node Chat">
+      <created>1390468650246</created>
+      <updated>1390468650246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="true" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.4997367" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5002633" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.4997367" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2527646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Node Chat" />
+    <MESSAGE value="Revert &quot;Revert &quot;Node Chat&quot;&quot;&#10;&#10;This reverts commit c3a48240ba8a7a4391ecba59863dac98b5919f7c.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Revert &quot;Node Chat&quot;&quot;&#10;&#10;This reverts commit c3a48240ba8a7a4391ecba59863dac98b5919f7c.&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/chat_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="4066" selection-end="4066" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="189" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="166" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="44" selection-start="376" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="3473" selection-end="3473" vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="12075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="4800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="3" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chat_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/chat_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="4066" selection-end="4066" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="189" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="166" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="44" selection-start="376" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="3473" selection-end="3473" vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="12075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="4800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="3" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chat_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/chat_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="4066" selection-end="4066" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="189" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/helloServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/helloServerV1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/streamingData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="23" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/helloServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/helloServerV1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/streamingData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="23" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/helloServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/streamingData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.34228188" vertical-offset="0" max-vertical-offset="596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodeinaction/helloServerV1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="270" selection-end="270" vertical-scroll-proportion="0.25671142" vertical-offset="0" max-vertical-offset="596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="315" selection-end="315" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="166" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="189" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="38" selection-start="1190" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chat_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/chat_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="4066" selection-end="4066" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="278" selection-end="278" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="44" selection-start="376" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="3473" selection-end="3473" vertical-scroll-proportion="0.0" vertical-offset="2896" max-vertical-offset="13685">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="5440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="3" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.4909091" vertical-offset="285" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

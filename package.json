@@ -1,0 +1,15 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+    "description":"Minimalist multi-room chat server",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "jade": "*",
+      "socket.io":"latest",
+      "mime":"latest"
+  }
+}
